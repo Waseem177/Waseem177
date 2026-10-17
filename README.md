@@ -1,4 +1,4 @@
-# Hey, I’m a CS student 👋
+# Hey, I’m a CS student 
 
 Exploring how machine learning can be more **reliable, private, and multilingual**.
 
