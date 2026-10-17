@@ -11,6 +11,6 @@ Machine unlearning · NLP · Privacy-preserving ML
 - [Network Intrusion Detection](https://github.com/Waseem177/network-intrusion-detection) — An explainable look at what an intrusion detector actually learns.
 
 ### Tools I reach for
-Python · PyTorch · Hugging Face · C · Java · Linux
+Python · PyTorch · Hugging Face · Linux
 
 [LinkedIn](https://linkedin.com/in/mohamed-waseem177) · [Email](mailto:waseeeem177@gmail.com)
